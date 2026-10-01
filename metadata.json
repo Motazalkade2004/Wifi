@@ -1,0 +1,6 @@
+{
+  "name": "Nader Complete — قلب اليمن فون",
+  "description": "منصة تشخيص وصيانة الهواتف المتقدمة لفنيي الصيانة — تشخيص لوحات إلكترونية دقيق، قياسات موجهة، بوابات سلامة، وفحص بصري ذكي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
